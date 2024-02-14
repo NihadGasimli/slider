@@ -1,0 +1,24 @@
+#photo{
+    background-color: RED;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 97vh;
+    box-sizing: border-box;
+}
+#image{
+    width: 100%;
+    height: 100%;
+}
+#imageDiv{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+}
+#photo h1{
+    font-size: 40px;
+}
